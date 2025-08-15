@@ -1,16 +1,12 @@
-## Hello. I am Nam 👋
+# Hi, I'm Nam 👋🧑‍💻
 
+Software Engineering & Technology student at CTU FEE 🎓  
+I love exploring new technologies—especially AI 🤖—and turning curiosity into real, maintainable projects 🛠️
 
-- I’m a Software Engineering & Technology student at CTU FEE 🎓
-- Passionate about exploring new technologies and diving deep into AI 🤖
-- I love turning curiosity into real projects — and I’m always eager to collaborate on large-scale coding projects that push boundaries.
-- 🤔 I’m looking for help with improving software design and architecture skills
-- 📫 How to reach me: nguyep12@student.cvut.cz
-- ⚡ Fun fact: i'm addicted to Banh mi
+- 🌱 Currently leveling up in software design and system architecture ⚙️🧠
+- 🤝 Open to collaborating on impactful, large-scale projects 🚀
+- 💬 Always happy to discuss AI 🤖, clean code 🧼, and scalable systems 📈
+- 📫 Reach me: [nguyep12@student.cvut.cz](mailto:nguyep12@student.cvut.cz) ✉️
+- ⚡ Fun fact: I'm addicted to bánh mì 🥖💛
 
-
-
-
-
-
-
+If you're working on something interesting and think I could help, let's connect! ✨
