@@ -1,8 +1,5 @@
 ## Hello. I am Nam 👋
 
-<!--
-**iamnam1/iamnam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - I’m a Software Engineering & Technology student at CTU FEE 🎓
 - Passionate about exploring new technologies and diving deep into AI 🤖
@@ -16,4 +13,4 @@
 
 
 
--->
+
